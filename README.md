@@ -1,2 +1,3 @@
-# Mi-primer-repositorio
-Este es mi primer proyecto en Github
+que singifica repositorio
+es un almacen o lugar donde se guardan ciertas cosas
+
